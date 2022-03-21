@@ -6,3 +6,5 @@ Amanda Jefferson:               https://github.com/jrlayton/kuddelmuddel-icebrea
 Sarah Barahona:                  https://github.com/tbaird2/LuftshlossStoryTime/pull/8
 
 Kevin Yang: https://github.com/jrlayton/kuddelmuddel-icebreaker/pull/8
+
+Jessica Reiter:			https://github.com/jreiter22/Ohrwurm_Story/pull/1
